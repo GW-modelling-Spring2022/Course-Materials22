@@ -35,13 +35,14 @@ ____
   - Check if you have GitHub installed and if not install it.  Directions for both Windows & Mac [here](http://happygitwithr.com/install-git.html). Windows users should follow Option 1 in 6.2. Mac users can follow Option 1 in 6.3.
   - *Note:* If you are a Windows user make sure you also install [GitBash](https://www.atlassian.com/git/tutorials/git-bash) as is noted in the instructions.
   - Setup options in Git. If you have a Mac, you can go to the terminal (Applications -> Utilities -> Terminal) as shown above. If you have a Windows, open Git BASH, which you should have downloaded.  You will need to  setup you [username](https://help.github.com/en/github/using-git/setting-your-username-in-git) and your [email](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address)
-  - Generate a SSH key so you don’t need to enter your password every time you interact with GitHub. Instructions for this can be found [here](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
+  - *Optional: If you want to work with github through terminal you will need to generate a SSH key. This is not not necessary for class we will be using GitKraken which you will setup below so feel free to skip this step if you want. Instructions for this can be found [here](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).*
 
 
 ### 2.	Install **GitKraken** and link to your GitHub account
   1. This is a handy GUI for working with Git Repos. You can get it on the GitKraken website (www.gitkraken.com/). No need to worry about boards or timelines for now you can just install the free GUI.
-  2. You can also get a free upgrade to Git Kraken pro as a student if you go[here](https://education.github.com/pack?utm_source=github+gitkraken). This will let you work with private as  well as public repos using Git Kraken.
   3. After you have installed GitKraken follow the instructions [here](https://support.gitkraken.com/integrations/github/) to link to your GitHub account. **Note:** you can stop at the 'Oauth step' but make sure you do the **Generate SSH** step.
+1. 
+   - *Optional: We will be using the free version of GitKraken for this class. However if you like this software and want to use it for private repos in the future you can also get a free upgrade to Git Kraken pro as a student if you go [here](https://education.github.com/pack?utm_source=github+gitkraken). This will let you work with private as  well as public repos using Git Kraken.*
 
 
 ### 3. Clone the course materials repo to your computer
@@ -173,13 +174,13 @@ The IDE we will be using this semester is Visual Studio Code, called VS Code for
      - Next search for `Markdown All In One` and install it
      - Finally search for and istall `Jupyter` and install it  
 
-  2. Use `File Open` to open your directory for this class that has all of your repos.  You should see a file list on the left where you can easily explore all of your files now. If it asks you if you trust the authors, say yes.
+  2. Use `Open Folder` to open your directory for this class that has all of your repos.  You should see a file list on the left where you can easily explore all of your files now. If it asks you if you trust the authors, say yes.
 
   3. Next we will set our python environment
      - Type `Command + Shift + P` (apple) or `Ctrl + Shift + P`(windows) to pull up the command pallet
      - Type `Python: Select Interpreter` into the command pallet dialog (NOTE: once you start typing it should give you a list to choose from so you don't have to type the whole thing)
      - Choose the `gwmod` conda environment you created earlier
-     - If this is  done correctly you should see your python environment in the bottom left corner of your vs code window like this:
+     - If this is  done correctly you should see your python environment in the bottom left corner of your vs code window like this (Note in this picture the environment is `hastools`, in your case it will be `gwmod`):
     ![](assets/Week2_Python_Install-376f5919.png)
 
   4. At this point you should  try running a python script.
@@ -187,7 +188,7 @@ The IDE we will be using this semester is Visual Studio Code, called VS Code for
      - Click on the `run_cell` button at the top of the script to run it
     ![](assets/python_vscode_runcell.png)
      - Note: when you try to run a script using Python Interactive in VSCode for the first time, you will be prompted in a dialog box to download IPyKernal say yes to this.
-     - If the code runs correctly you should have an interactive window that opens up and looks something like this:
+     - If the code runs correctly you should have an interactive window that opens up and looks something like this :
     ![](assets/python_vscod_interactive.png)
 
      - If you are unable to download IPyKernal see instructions below
