@@ -36,3 +36,9 @@ Just to be sure that you have the right figures upon which to base your answers 
 1. Can you imagine how the model inputs could be stored in separate files rather than other spreadsheet cells?  Describe the flow of information from a file that describes the other files that contain model-specific information about the system.
 1. What is an iterative solution?  Can you explain it to a hydrologist who is not a modeler?  Can you describe (or imagine) how Excel finds the solution?
 1. What is a direct solution?  What are its (dis)advantages compared to an iterative (numerical) solution?
+   
+## Glossary Questions: 
+To be added to our class notes glossary (see the link in the course readme). Each questions should have a 1-2 paragraph answer. Feel free to add links to references or helpful graphics. 
+1.  What is a model?  What is a ground water model?  How are ground water models used?
+2.  What are model parameters?  How do they (and don't they) represent the actual subsurface?
+3.  What does it mean for a model to be in steady state? Discuss your answer with respect to both heads and fluxes. What is the utility of steady state solutions in the practice of groundwater modeling (i.e. when and why do we use steady state solutions)?
