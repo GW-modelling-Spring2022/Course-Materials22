@@ -5,7 +5,8 @@ ____
 - [Training Videos](#training-videos)
   - [Setup](#setup)
   - [Working with repos in GitHub](#working-with-repos-in-github)
-- [Presentation dates](#presentation-dates)
+- [Modflow Resources](#modflow-resources)
+- [Presentation Dates](#presentation-dates)
   - [Model & Discussion Leaders](#model--discussion-leaders)
   - [Glossary Notes Leaders](#glossary-notes-leaders)
 
@@ -27,9 +28,14 @@ ____
 ### Working with repos in GitHub
 - [How to keep your course materials repo up to date (Git Pull)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86839053-84ee-40bf-8744-ae2401723289&start=1)
 - [How submit your homework and do your work in your homework repo](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36fbeca9-ff23-40d8-a5fe-ae2401764ff0)
-
 ____
-## Presentation dates
+## Modflow Resources
+- [The main website for modflow 2005 with links for other resources](https://www.usgs.gov/software/modflow-2005-usgs-three-dimensional-finite-difference-ground-water-model)
+- [Online user guide (describes all input file formats)](https://water.usgs.gov/ogw/modflow/MODFLOW-2005-Guide/)
+- [Full users manual](https://pubs.usgs.gov/tm/2005/tm6A16/)
+  
+____
+## Presentation Dates
 Everyone registered for 582 should sign up for **2** model discussion slots and **1** glossary slots. Everyone registered for 482 should sign up for **1** model discussion slot and **2** glossary slots. 
 
 *Don't do the glossary and discussion slots for the same assignment.*  

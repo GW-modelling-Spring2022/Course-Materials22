@@ -222,6 +222,8 @@ ___
 **Mac Users:**
   Run the following commands to install MODFLOW using the PyMake
 - Check if you have gfortran installed bu typing `which gfortran` or `gfortran -v` into command line. If you don't see that you have gfortran installed you should install it from [here](https://github.com/fxcoudert/gfortran-for-macOS/releases)
+
+https://github.com/fxcoudert/gfortran-for-macOS/releases/tag/11-arm-alpha2 
 - `cd` to a directory where you would like to put your MODFLOW builds
 ```
 Pip install https://github.com/modflowpy/pymake/zipball/master
