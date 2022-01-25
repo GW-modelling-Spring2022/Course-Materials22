@@ -17,15 +17,16 @@ This week we will be running a simple box model in MODFLOW using **manual** inpu
 
 ## Steps for running the starter code
 ### Step 1: Look at the inputs 
-Copy the input files into your Homework repo and look through the files in conjunction with the 
-[user guide](https://water.usgs.gov/ogw/modflow/MODFLOW-2005-Guide/) to understand the model that is being created. I recommend going to the `Input Files Supported in Various Versions of MODFLOW` tab on the table of contents and using this to navigate to each of the input file formats. 
+- Watch the modflow input files [video](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ea4fab8-9068-4d14-8fbe-ae2800f2924c) for more informaiton on the structure of the input files. 
+
+- Copy the input files into your Homework repo and look through the files in conjunction with the  [user guide](https://water.usgs.gov/ogw/modflow/MODFLOW-2005-Guide/) to understand the model that is being created. I recommend going to the `Input Files Supported in Various Versions of MODFLOW` tab on the table of contents and using this to navigate to each of the input file formats. 
 You should have the following files: 
-- `nam`: Master name file that lists all the other files that will be used
-- `bas`: The basic package where boundary condition types and initial heads are specified
-- `dis`: The discretization file that specifies the number of rows, columns. layers, their timesteps and time units.
-- `bcf`: Block centered flow file where the properties that control flow are entered (i.e hydraulic conductivity)
-- `oc`: Output control file specifying what outputs will be saved and printed
-- `pcg`: Preconditioned conjugate Gradient package -- this specifies the solver and the solver settings
+  - `nam`: Master name file that lists all the other files that will be used
+  - `bas`: The basic package where boundary condition types and initial heads are specified
+  - `dis`: The discretization file that specifies the number of rows, columns. layers, their timesteps and time units.
+  - `bcf`: Block centered flow file where the properties that control flow are entered (i.e hydraulic conductivity)
+  - `oc`: Output control file specifying what outputs will be saved and printed
+  - `pcg`: Preconditioned conjugate Gradient package -- this specifies the solver and the solver settings
 
 ### Step 2: Run the example model 
  run the MODFLOW model from command line using the following steps:
