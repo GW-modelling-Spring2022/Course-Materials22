@@ -50,26 +50,26 @@ When you are a Discussion leader you need to do the following (The date listed w
 2. Lead the class discussion on the Thursday and submit your slides to the google drive
 3. Synthesize the class discussion and answer to the challenge in a short (<5 minute video) submitted by the following Monday 
    
--  Homework 2 (Jan 31):
--  Homework 3 (Feb 7)
--  Homework 4 (Feb 14)
--  Homework 5 (Feb 21)
--  Homework 6 (Feb 28) 
--  Homework 7 (Mar 14)
--  Homework 8 (Mar 21)
--  Homework 9 (Mar 28)
--  Homework 10 (Apr 4)
+-  Homework 2 (Jan 31):Diana, Jake, Adam
+-  Homework 3 (Feb 7): Hassan, Jeff, David
+-  Homework 4 (Feb 14): Jen, Katarina
+-  Homework 5 (Feb 21): Abigail, Connal
+-  Homework 6 (Feb 28): Justin, David
+-  Homework 7 (Mar 14): Adam, Starlivia, Katarina 
+-  Homework 8 (Mar 21): John, Devin
+-  Homework 9 (Mar 28): Diana, Abigail, Hassan
+-  Homework 10 (Apr 4):  Connal, Jen, Justin
 
 
 ### Glossary Notes Leaders
 Glossary leaders are responsible for writing up answer to the glossary questions following the class discussion on Thursday and presenting to the class the following Tuesday. 
--  Homework 1 (Feb 1): 
--  Homework 2 (Feb 8):
--  Homework 3 (Feb 15):
--  Homework 4 (Feb 22):
--  Homework 5 (Mar 1):
--  Homework 6 (Mar 15): 
--  Homework 7 (Mar 22):
--  Homework 8 (Mar 29):
--  Homework 9 (Apr 5):
--  Homework 10 (Apr 12):
+-  Homework 1 (Feb 1): Starlivia, Justin
+-  Homework 2 (Feb 8): Jeff, John
+-  Homework 3 (Feb 15): Jake, Adam
+-  Homework 4 (Feb 22): John, Jeff
+-  Homework 5 (Mar 1): Starlivia, Diana
+-  Homework 6 (Mar 15): Devin, Hassan
+-  Homework 7 (Mar 22): Abigail, Jen 
+-  Homework 8 (Mar 29): Jake, Connal  
+-  Homework 9 (Apr 5): Katarina, David
+-  Homework 10 (Apr 12): Devin
