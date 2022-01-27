@@ -35,7 +35,7 @@ If you are PC:
  - copy mf2005.exe into the directory with your MODFLOW input files.
  - Open a command window (you can do this by opening GitBash or just opening a new terminal window from inside vscode) 
  - If you are not already in the directory with the files navigate to the directory with your MODFLOW input files.  (cd is the command to change directories)
-- Type `mf2005 BoxModel_Manual` in the command window and hit enter.  This should run MODFLOW and overwrite your output files.
+- Type `mf2005.exe BoxModel_Manual_update.nam` in the command window and hit enter.  This should run MODFLOW and overwrite your output files. (**NOTE** Depending on what kind of terminal you are running you may need to type `mf2005.exe BoxModel_Manual_update.nam`)
 
 If you are Mac: 
   - Make sure you have installed ModFlow following the setup instructions before you start 
