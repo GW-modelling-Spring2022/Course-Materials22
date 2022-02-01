@@ -26,6 +26,7 @@ ____
 - [How to clone a repo](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1e63525-1dc7-43d4-b697-ae20016d557e)
 - [How to make a conda environment and add packages](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5464dfb-ff76-4051-9559-ae2001704f04)
 - [How to setup VS code](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a59ed8af-209c-42f3-aa62-ae2001773458)
+- [Intro to Jupyter Notebooks](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13a9b4bb-4729-43e7-ac63-ae2f001adada)
 
 ### Working with repos in GitHub
 - [How to keep your course materials repo up to date (Git Pull)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86839053-84ee-40bf-8744-ae2401723289&start=1)
