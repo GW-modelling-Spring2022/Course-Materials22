@@ -6,7 +6,7 @@ ____
   - [Setup](#setup)
   - [Working with repos in GitHub](#working-with-repos-in-github)
   - [Modflow Basics](#modflow-basics)
-- [Modflow Resources](#modflow-resources)
+- [Modflow and FloPy Resources](#modflow-and-flopy-resources)
 - [Presentation Dates](#presentation-dates)
   - [Model & Discussion Leaders](#model--discussion-leaders)
   - [Glossary Notes Leaders](#glossary-notes-leaders)
@@ -33,7 +33,8 @@ ____
 ### Modflow Basics
 - [MODFLOW input files](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ea4fab8-9068-4d14-8fbe-ae2800f2924c)
 ____
-## Modflow Resources
+## Modflow and FloPy Resources
+- [FloPy user manual](https://flopy.readthedocs.io/en/3.3.4/)
 - [The main website for modflow 2005 with links for other resources](https://www.usgs.gov/software/modflow-2005-usgs-three-dimensional-finite-difference-ground-water-model)
 - [Online user guide (describes all input file formats)](https://water.usgs.gov/ogw/modflow/MODFLOW-2005-Guide/)
 - [Full users manual](https://pubs.usgs.gov/tm/2005/tm6A16/)

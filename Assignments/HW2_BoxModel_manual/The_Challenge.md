@@ -90,7 +90,7 @@ In your markdown discussion file for this week (`HW2_discussion_lastname.md) ple
 2) Answers to the glossary questions
 
 
-If you want to establish purely horizontal flow, what (specifically) should be defined as constant along the constant head boundaries?
+
 
 
 
