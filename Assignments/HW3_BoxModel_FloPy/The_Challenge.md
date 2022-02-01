@@ -18,9 +18,9 @@ This week we will be starting with the same model from last week but instead of 
 ​**Model**: The model that you have been provided is set up for a heterogeneous medium:  a homogeneous medium with a centered, square low K inclusion.  You will be asked to modify the K value of the inclusion and discuss the impacts on the head and boundary flux distributions.  You will also be asked to assess how the domain-scale equivalent K depends on the background and inclusion K values.  
 
 ## Instructions for running the starter code
-1. Before you get started I recommend you watch this video on the basics of FloPy and how it is different from the manual approach we did last week. 
+1. Before you get started I recommend you watch this video on the [basics of FloPy](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9563086-6209-42f4-acb1-ae2f00128f72) and how it is different from the manual approach we did last week. 
 2. Remember to copy of the `HW3_BoxModel_FloPy` assignment into the `working` directory of your homework repo before you get started so that you can save your work in your homework repo. 
-3.  Open up the starter code (`BoxModel_flopy.ipynb`) in VScode and walk through it to make sure you understand the general flow of how it works. It's okay if you don't understand every line of code here just read the narrative and get a sense for generally how its setup.  Watch this video which will also help you walk through it.
+3.  Open up the starter code (`BoxModel_flopy.ipynb`) in VScode and walk through it to make sure you understand the general flow of how it works. It's okay if you don't understand every line of code here just read the narrative and get a sense for generally how its setup.  If you are new to jupyter notebooks you can also watch this video on Jupyter notebook baics.
 4.  Find the cell where the `moddir` is set and make sure that is updated to point to the location of the `mf2005.exe` file on your computer. 
 5.  Run every cell of the notebook to ensure that the model runs and generates the plots. 
 6.  Look in the directory where you ran the jupyter notebook to see what files were created. (you can do this straight from VScode) open these files and compare them to the files you generated manually in your Homework last week. 
