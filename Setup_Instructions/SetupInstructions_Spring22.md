@@ -138,12 +138,9 @@ After you have setup your environment you will need to add Python packages to it
     - numpy
     - matplotlib
     - pandas
-  
-3. Next Flopy has to be installed with pip not conda so finally run the following:
-    ```
-    pip install flopy
-    ```
-4. To check if you have installed these modules you can use the command
+    - flopy
+
+3. To check if you have installed these modules you can use the command
     ```
     conda list
     ```
