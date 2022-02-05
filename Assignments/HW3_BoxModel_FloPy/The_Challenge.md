@@ -56,14 +56,14 @@ This week we will be starting with the same model from last week but instead of 
 
 ## What to Submit: 
 ###  Tuesday: 
-- Submit your Jupyter notebook through your homework repo on GitHub in your submisison folder `HW3_model_lastname.ipynb`
-- Submit **one pdf file*** which includes at least the following graphs/tables (don't forget to include a caption for each graph that notes explains the model configuration that it goes with):
+- Submit your Jupyter notebook through your homework repo on **GitHub** in your submisison folder `HW3_model_lastname.ipynb`
+- Submit **one pdf file*** which includes at least the following graphs/tables to **D2L** (don't forget to include a caption for each graph that notes explains the model configuration that it goes with):
 1. Line plot figures of the flow on the left and right boundary
 2. Line plot figure with an additional line added showing flow through the center of the domain
 3. Table of the total flows for the baseline and differing inclusion K cases (Challenge 3 &4)
 4. Plots or tables comparing the three K calculations from challenge 5
 
 ### Thursday: 
-In your markdown discussion file for this week (`HW2_discussion_lastname.md) please provide:
+Submit your discussion answers to **D2L**. In your markdown discussion file for this week (`HW2_discussion_lastname.md) please provide:
 1) A discussion of your answers to challenge. 
 2) Answers to the glossary questions
