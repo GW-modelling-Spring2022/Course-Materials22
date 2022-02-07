@@ -60,8 +60,8 @@ When you are a Discussion leader you need to do the following (The date listed w
 -  Homework 2 (Jan 31):Diana, Jake, Adam
 -  Homework 3 (Feb 7): Hassan, Jeff, David
 -  Homework 4 (Feb 14): Jen, Katarina
--  Homework 5 (Feb 21): Abigail, Connal
--  Homework 6 (Feb 28): Justin, David
+-  Homework 5 (Feb 21): Abigail, Connal, Xenia
+-  Homework 6 (Feb 28): Justin, David, Xenia
 -  Homework 7 (Mar 14): Adam, Starlivia, Katarina 
 -  Homework 8 (Mar 21): John, Devin
 -  Homework 9 (Mar 28): Diana, Abigail, Hassan
@@ -79,4 +79,4 @@ Glossary leaders are responsible for writing up answer to the glossary questions
 -  Homework 7 (Mar 22): Abigail, Jen 
 -  Homework 8 (Mar 29): Jake, Connal  
 -  Homework 9 (Apr 5): Katarina, David
--  Homework 10 (Apr 12): Devin
+-  Homework 10 (Apr 12): Devin, Xenia
