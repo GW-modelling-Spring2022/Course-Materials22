@@ -52,10 +52,12 @@ Everyone registered for 582 should sign up for **2** model discussion slots and 
 *Don't do the glossary and discussion slots for the same assignment.*  
 
 ### Model & Discussion Leaders
-When you are a Discussion leader you need to do the following (The date listed with each homework is the first due date for the correct figures): 
-1. Iterate with the instructor to get the corrected figures by Monday
-2. Lead the class discussion on the Thursday and submit your slides to the google drive
-3. Synthesize the class discussion and answer to the challenge in a short (<5 minute video) submitted by the following Monday 
+When you are a Discussion leader you need to do the following (The date listed with each homework is the first due date for the correct figures). Make sure you start your homework early the week you are presenting so you can ask questions at Thursady office hours and have figures drafted by Monday: 
+1. Iterate with the instructor to get the corrected figures by Monday. 
+  - Note that that you need to send me a first draft of your figures by Monday morning at the latest.  
+  - Your figures should be in a single word doc with captions ready to share with the rest of the class. 
+3. Lead the class discussion on the Thursday and submit your slides to the google drive
+4. Synthesize the class discussion and answer to the challenge in a short (<5 minute video) submitted by the following Monday 
    
 -  Homework 2 (Jan 31):Diana, Jake, Adam
 -  Homework 3 (Feb 7): Hassan, Jeff, David
