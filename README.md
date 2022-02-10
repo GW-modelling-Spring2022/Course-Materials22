@@ -37,6 +37,10 @@ ____
 
 ### Flopy 
 - [Intro to Flopy](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9563086-6209-42f4-acb1-ae2f00128f72)
+
+## Python training
+- [Python Fundamentals](https://www.earthdatascience.org/courses/intro-to-earth-data-science/python-code-fundamentals/)
+- [Numpy Arrays](https://www.earthdatascience.org/courses/intro-to-earth-data-science/scientific-data-structures-python/numpy-arrays/)
 ____
 ## Resources
 - [FloPy user manual](https://flopy.readthedocs.io/en/3.3.4/)
