@@ -37,6 +37,7 @@ ____
 
 ### Flopy 
 - [Intro to Flopy](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9563086-6209-42f4-acb1-ae2f00128f72)
+- [Python indexing and the modflow grid](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cca566d-65d9-4def-bd3b-ae3a011785e5)
 
 ## Python training
 - [Python Fundamentals](https://www.earthdatascience.org/courses/intro-to-earth-data-science/python-code-fundamentals/)
