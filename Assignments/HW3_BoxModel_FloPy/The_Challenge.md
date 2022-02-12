@@ -31,7 +31,7 @@ This week we will be starting with the same model from last week but instead of 
        - Explain why the values are not constant along the boundary (relate to the definition of a Type I boundary).  
        - Explain why the flow distributions are the same for the left and right boundaries.
 
-2. Add a plot of the left-to-right flow along a line that passes through the center of the inclusion.  What can you learn from comparing this distribution to that seen on the boundaries?
+2. Add a plot of the left-to-right flow along a vertical line that passes through the center of the inclusion.  What can you learn from comparing this distribution to that seen on the boundaries?
 
 3. Calculate the total flow into (and out of) the domain.  Use this to calculate the Keq of the heterogeneous system with the K values as given in the starter code.  
    
@@ -40,7 +40,7 @@ This week we will be starting with the same model from last week but instead of 
 5. Compare the Keq calculated based on the total flow into and out of the domain to the harmonic and arithmetic mean K values calculated based on the area occupied by each medium (rather than the length for a 1D system).  Can you draw any general conclusions about the impact of high or low K heterogeneities on the equivalent K for the flow system examined?
 
 ## Discussion questions 
-1. Does the equipotential distribution depend on the absolute or relative K values for the background and the inclusion?  How would you use the model to test your answer?
+1. Does the equipotential distribution depend on the absolute or relative K values for the background and the inclusion (i.e. does it matter just what the incluion value is relative to the background (e.g. kinclusion/kbackground or does it matter more wha the absolute value of the inclusion k is regardless of the bakground value)?  How would you use the model to test your answer?
    
 2. Discuss what it means to say that, for steady state flow, there are equivalent Type I and Type II boundary conditions.  How might this be useful in practice?
 
