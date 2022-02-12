@@ -1,9 +1,15 @@
-# Assignments
-This directory will be populated over the course of the semester and will include weekly assignments along with solutions as they are populated. 
-
-## Every week I will provide you with: 
-1. A challenge file outlining the assignment for the week
+# Assignments<!-- omit in toc -->
+This directory will be populated over the course of the semester and will include weekly assignments along with solutions as they are populated.  Every week I will provide you with: 
+1. A challenge file outlining the assignment 
 2. Some starter codes to get you going
+We will go over these materials in class the Tuesday before an assignment is due. 
+
+##  Table of contents<!-- omit in toc -->
+- [What to Submit (if you aren't the discussion leads):](#what-to-submit-if-you-arent-the-discussion-leads)
+  - [On Tuesday: Model script and figures](#on-tuesday-model-script-and-figures)
+  - [On Thursday: Completed challenge and question](#on-thursday-completed-challenge-and-question)
+- [Discussion lead instructions](#discussion-lead-instructions)
+- [Glossary lead instructions](#glossary-lead-instructions)
 
 ---- 
 ## What to Submit (if you aren't the discussion leads): 
@@ -28,8 +34,8 @@ On Thursday please submit your complete response to the challenge to D2L. This s
 ## Discussion lead instructions
 If you are in the discussion lead for a given assignment you do not need submit your figures and discussion per the instructions above. Instead please do the following: 
    1.	Iterate with the instructor to get the corrected figures by Monday.
-      •	Note that that you need to send me a first draft of your figures by Monday morning at the latest.
-      •	Your figures should be in a single word doc with captions ready to share with the rest of the class.
+      - Note that that you need to send me a first draft of your figures by Monday morning at the latest.
+      - Your figures should be in a single word doc with captions ready to share with the rest of the class.
    3.	Lead the class discussion on the Thursday and submit your slides to the google drive
    4.	Synthesize the class discussion and answer to the challenge in a short (<5 minute video) submitted by the following Monday
    5.	Email the instructor when you have submitted your slides and video 
