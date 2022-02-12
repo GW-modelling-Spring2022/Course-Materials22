@@ -22,13 +22,14 @@ On Tuesday you submit your model script and associated figures.
       - At a minimum submit the figures listed in the assignment. If you want to submit more figures please label those as supplemental and put them after the required figures. 
       - If you can't generate one of the required figures or calculations please include a note for what went wrong or why you were stuck. 
 2. Submit your python notebook and any additional calculation files to the submissions folder of your github repo
-**Note: After class on Tuesday the correct figures and notebook will be released. Please use these for your discussion on Thursday if they differ from what you submitted. 
+**Note: After class on Tuesday the correct figures and notebook will be released. Please use these for your discussion on Thursday if they differ from what you submitted.** 
 
 ### On Thursday: Completed challenge and question
 On Thursday please submit your complete response to the challenge to D2L. This should include: 
 1.	An answer to every challenge question including the relevant plots
 2.	An answer to every discussion question
 3.	An answer to every glossary question
+**NOTE: Feel free to bring in any additional plots you would like that help you walk through your answers to the questions and to use the correct figures and notbook to generate anything you need. 
 
 ---- 
 ## Discussion lead instructions
