@@ -66,8 +66,8 @@ When you are a Discussion leader you need to do the following (The date listed w
    
 -  Homework 2 (Jan 31):Diana, Jake, Adam
 -  Homework 3 (Feb 7): Hassan, Jeff, David
--  Homework 4 (Feb 14): Jen, Katarina
--  Homework 5 (Feb 21): Abigail, Connal, Xenia
+-  Homework 4 (Feb 14): Jen, Katarina, Abigail
+-  Homework 5 (Feb 21):  Connal, Xenia
 -  Homework 6 (Feb 28): Justin, David, Xenia
 -  Homework 7 (Mar 14): Adam, Starlivia, Katarina 
 -  Homework 8 (Mar 21): John, Devin
