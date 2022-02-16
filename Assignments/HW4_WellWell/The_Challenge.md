@@ -68,10 +68,13 @@ Before running the model, predict what you would happen to the inflow/outflow bo
 It's been a few weeks now so you know the drill. (1) Submit your figures in a single doc or pdf along with captions to D2L and your ipynb to github by Tuesday before class (2) submit your complete answer to the challenge discussion and glossary questions including figures and discussion to D2L by class on Thursday. 
 
 **Minimum Figures to submit:** 
-- Base case boundary flows 
+Plots of the Base case (i.e. well at [12,12]):
+- Base case  boundary flows 
 - Base case flux through midline of domain.
-- Base case equipotentials and flow vectors.
+- Base case  equipotentials and flow vectors.
 - Base case drawdown around centered well 
+
+Plots of the moved well (i.e. well at [5,5]):
 - Moved well drawdown plot
 - Moved well equipotentials and flow vectors
 - Additional plots to explain the moved well case
