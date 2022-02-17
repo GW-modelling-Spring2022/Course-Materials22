@@ -16,7 +16,7 @@ In the starter code the model is confined.  There is a well located at [0,10,15]
 For the challenge you are going to be exploring two things (1) what happens if this swaps from confined to unconfined conditions, (2) how recharge impacts your solution. 
 
 ### The Challenge
-1. Change the boundary condition heads to make this an unconfined model. You can pick whatever heads you would like but I recommend keeping both of them above zero (*Hint:these are the variables H_left and H_right in the starter code*). Run two simulations with the same head gradient across the model (i.e. H_lef-H_right being equal) but where one is confined and the other is unconfined. 
+1. Change the boundary condition heads to make this an unconfined model. You can pick whatever heads you would like but I recommend keeping both of them above zero (*Hint:these are the variables H_left and H_right in the starter code*). Run two simulations with the same head gradient across the model (i.e. H_lef-H_right being the same between your confined and unconfined cases) but where one is confined and the other is unconfined. 
    - Plot the equipotentials and flow lines for both simulations 
    - Plot the head difference between the two simulations
    - Describe how the two head profiles differ and explain why this is the case. 
@@ -26,7 +26,7 @@ For the challenge you are going to be exploring two things (1) what happens if t
    - Compare these calculations and plots and provide an explanation for why you see the behavior you do. 
    - The overall gradient is the same, as is the K of the medium. Is the flow the same for both boundary conditions?  Why or why not? 
 
-3.  Now add recharge at a constant rate of 1e-4 m/day over the entire top boundary to an unconfined case with the left boundary set 7m and the right boundary set to a 2m.  
+3.  Now add recharge at a constant rate of 1e-4 m/day over the entire land surface to an unconfined case with the left boundary set 7m and the right boundary set to a 2m.  
    - Explain the head transect and boundary flows.  
    - Is flow in this system 2D or 3D?  Is it represented as 2D or 3D?  Explain what you mean by your answers.
 
