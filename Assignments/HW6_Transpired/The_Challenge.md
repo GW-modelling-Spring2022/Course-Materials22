@@ -5,16 +5,14 @@ This is the last week in our series of adding modules to our box model and its d
 ## Table of Contents <!-- omit in toc -->
 - [Model Description](#model-description)
 - [The Challenge](#the-challenge)
-- [Correct Key Figures](#correct-key-figures)
-- [The Socratic Method](#the-socratic-method)
-- [Discussion Points](#discussion-points)
-- [Partners](#partners)
+- [Glossary questions:](#glossary-questions)
+- [What to Submit](#what-to-submit)
    
 
-### Model Description
+## Model Description
 ​The model that you have been provided is set up for a homogeneous medium and is now 15 m thick.  There is a well located at [0,15,15], but it is not being pumped.  The background recharge rate is zero.  There is a region of localized recharge in [6:10, 6:10] with a recharge rate of 5e-4 m/day.  ET occurs over the entire domain at a rate of 5e-5 m/day and an extinction depth of 3 m.  The left and right boundaries have constant heads of 15 and 5, respectively.      
 
-### The Challenge
+## The Challenge
 1.  For the initial boundary head values and recharge and ET rates:
    - plot the flow across the left and right bounaries. Explain what you see and why it makes sense. 
    - Plot the equipotentials and flow vectors in plan view and outline (hand draw) the area that would be affected by recharge (i.e. if it were contaminated).  Explain what you are seeing and why. 
