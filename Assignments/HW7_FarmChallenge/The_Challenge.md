@@ -71,9 +71,9 @@ Your client is Wildcat Farm and they would like to know whether the pumping on A
    - List all assumptions you are making in your model
    - A description of the three scenarios you are presenting and how they differ from each other. 
   
-2.  Present at least three scenarios to explore the possibile outcomes for Wildcat Farm. Its up to you vary your scenarios. Each should still be consistent with the problem statement but you can make different assuptions about your setup (e.g. where ACME puts its wells, hydraulic conducitivity values, different boundary conditions). Try to come up with one scenario which is your best guess, one scenario where the Wildcat Farm well goes dry and one scenario where it doesnt. Provide any graphs and calculations needed to present and explore your scenario results to the client.  
+2.  Present at least three scenarios to explore the possibile outcomes for Wildcat Farm. Its up to you vary your scenarios. Each should still be consistent with the problem statement but you can make different assuptions about your setup (e.g. where ACME puts its wells, hydraulic conducitivity values, different boundary conditions). Try to come up with one scenario which is your best guess, one scenario which you think is a reasonable worst case scenario for Wildcat Farm and one which you think is a best case scenario for Wildcat farm. Provide any graphs and calculations needed to present and explore your scenario results to the client.  
        - Discuss what you think the most likely outcome is and why. 
-       - Provide advice to Wildcat Farm on what conditions are needed for  their well not going dry? 
+       - Discuss your best and worst case scenarios and how likely you think they are? 
 
 ## Glossary questions
 1. What does it mean to be simulating saturated flow vs variably saturated flow? What are the advantages and disadvantages of each? Why is it much harder to solve for unsaturated flow?  Integrate the concept of a linear versus a nonlinear model into your answer.
