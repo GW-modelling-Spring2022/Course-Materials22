@@ -145,7 +145,7 @@ After you have setup your environment you will need to add Python packages to it
     conda list
     ```
 ___
-## Install Part 3: VS code
+## Setup Part 3: VS code
 ### 1. Download and install VS code
 **[This video provides a breif overview of the next steps on VS code](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a59ed8af-209c-42f3-aa62-ae2001773458)** <n>
 
