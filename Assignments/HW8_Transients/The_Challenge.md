@@ -4,15 +4,15 @@ This week we are going to branch out from steady state and start including the c
 
 ## Table of Contents <!-- omit in toc -->
 - [Model Description](#model-description)
-- [The Challenges](#the-challenges)
+- [The Challenge](#the-challenge)
 - [Glossary questions:](#glossary-questions)
 - [What to Submit](#what-to-submit)
 - [Correct Key Figures](#correct-key-figures)
 
 ## Model Description
-​The model that you have been provided is set up for a homogeneous medium with a K of 1 m/day in all directions.  The single-layer domain is 50x50 cells.  The cells are 10 m in lateral extent and 50 m in vertical. There is a well located at [0,20,20] (layer, row, column).  Recharge occurs at a rate of 5e-4 m/day.  The left and right boundaries have constant heads of 50 m and 30 m, respectively.  The well is pumped cyclically.  Water is withdrawn at 500 m3/day for 90 days and then it is turned off for 270 days.  (Pretend that a year is 360 days long.)  The simulation is set to run for 100 years.  
+​The model that you have been provided is set up for a homogeneous medium with a K of 1 m/day in all directions.  The single-layer domain is 50x50 cells.  The cells are 10 m in lateral extent and 50 m in vertical. There is a well located at [0,20,20] (layer, row, column).  Recharge occurs at a rate of 5e-4 m/day.  The left and right boundaries have constant heads of 50 m and 30 m, respectively.  The well is pumped cyclically.  Water is withdrawn at 500 m3/day for 90 days and then it is turned off for 270 days.  (Pretend that a year is 360 days long.)  The simulation is set to run for 10 years.  
 
-## The Challenges
+## The Challenge
 1) Plot the heads (or WTD) of the initial steady state condition.  The gradient is not uniform for the initial steady state conditions - discuss the influences of recharge and the unconfined condition on this nonlinearity
 
 2) Determine if the system has reached steady state afert 10 years - consider a point at the well and another at the center of the domain.  
@@ -22,11 +22,6 @@ This week we are going to branch out from steady state and start including the c
 4) Find the zone of influence of the well defined in two ways:
     - Based on the drawdown from the initial steady state to the end of simulation time (end of final no-pumping stress period).
     - Based on the drawdown from the end of the last pump-on stress period to the end of simulation time.
-
-5) Find a constant pumping rate (same throughout the year) that matches the head time series at the middle of the domain.  
-
-6) Find a constant pumping rate (same throughout the year) that matches the head time series at the well, leaving only a regular, repeating seasonal residual.  Are the two pumping rates the same?
-
 
 ## Glossary questions:
 1.  Explain the concept of stress periods in MODFLOW. How should you determine stress periods when setting up your model? How do they differ from timesteps? 
