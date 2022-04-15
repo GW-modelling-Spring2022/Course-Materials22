@@ -23,7 +23,7 @@ Figure 1 is a conceptual diagram of the domain you will be modeling.
 ### 2.1 Predevelopment
 *(NOTE: in the description below all column row references are in python coordinates [row,col]. Refer to Figure 1 to see the plan view orientation of the rows and columns.)* 
 
-You should build a steady state model.  The model should have 50x50 cells, each 1000 m in x and in y.  The porosity is 0.10, specific yield is 0.10, and storage coefficient is 0.0001.  There are three layers.  The medium is homogeneous within each layer.  The K of the top and bottom layers is 10 m/day in all three principal directions.  K of the middle layer is the same as the lower layer in the leftmost 20 columns, but it is 0.0001 m/day in the z direction in the remaining columns. 
+You should build a steady state model.  The model should have 50x50 cells, each 1000 m in x and in y.  The porosity is 0.10, specific yield is 0.10, and storage coefficient is 0.0001.  There are three layers.  The medium is homogeneous within each layer.  The K of the top and bottom layers is 8.5 m/day in all three principal directions.  K of the middle layer is the same as the lower layer in the leftmost 20 columns, but it is 0.0001 m/day in the z direction in the remaining columns. 
 
 The bottom of the domain is topographically flat and the bottom layer is 40 m thick.  The middle layer is 5 m thick and is also flat.  The top layer elevation is provided in `BASE_TOP_ELEV.CSV`.   
 
@@ -36,7 +36,7 @@ The right boundary in all of the layers has a constant head of 70 m relative to 
 
 Recharge occurs at a rate of 4E-5 m/day in the leftmost 15 columns and is zero elsewhere.  
 
-A stream extends from the left to the right boundary in row 25.  The stream width, length, and thickness are 1.  No flow is entering the stream (from tributaries).  The K of the streambed is 1000 m/day.  The roughness is 0.04 and the slope is 0.001.  The streambed elevation is one m below ground surface and the stage is 0.5 m.    
+A stream extends from the left to the right boundary in row 25.  The stream width, length, and thickness are 1.  No flow is entering the stream (from tributaries).  The K of the streambed is 1.36 × the hoirzonal conductivity of the top layer.  The roughness is 0.04 and the slope is 0.001.  The streambed elevation is one m below ground surface and the stage is 0.5 m.    
 
 ET is zero in the left half of the domain.  ET is 1E-5 m/day in the right half of the domain.  ET occurs at a rate of 5E-4 m/day in a riparian area that extends from the left boundary to the right boundary and occupies rows 22 to 28, inclusive.  The extinction depth is 1 m everywhere.
 
@@ -62,7 +62,7 @@ Water is provided for irrigation from a well that is completed in the top layer 
 3. Add the proposed agricultural element (pumping and localized recharge).  This will be called YTYA, Yes Town, Yes Ag.
 
 **What to submit:** 
-This will be your second and final graded script for the semester. Your script is due **next Tuesday by the start of class**
+This will be your second and final graded script for the semester. Your script is due **next Thursday by the start of class**
 
 Submit a jupyter notebook to Github that has your setup for all three scenarios alsong with any graphs that you would like to present that illustrate the behavior. 
 
@@ -70,5 +70,14 @@ Submit a jupyter notebook to Github that has your setup for all three scenarios 
 - Ideally you can run all three scenarios in one notebook but if needed you can submit three. 
 
 
+**Grading:** 
+Remember this is your second graded script. I will be checking for the following:
+- Can I run your script? 
+- Did you appropriately define your boundary conditions?
+- Do you have streams correctly implmented? 
+- Do you have the correct layering in your model? 
+- Are ET and Recharge zones correctly applied? 
+- Did you provide adequate comments for me to follow your work? 
+- Did you provide plotting ouputs with markdown cells to illustrate your results? 
 
 
