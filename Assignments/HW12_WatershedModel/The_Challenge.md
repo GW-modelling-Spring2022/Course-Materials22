@@ -38,7 +38,7 @@ Recharge occurs at a rate of 4E-5 m/day in the leftmost 15 columns and is zero e
 
 A stream extends from the left to the right boundary in row 25.  The stream width, length, and thickness are 1.  No flow is entering the stream (from tributaries).  The K of the streambed is 1.36 × the hoirzonal conductivity of the top layer.  The roughness is 0.04 and the slope is 0.001.  The streambed elevation is one m below ground surface and the stage is 0.5 m.    
 
-ET is zero in the left half of the domain.  ET is 1E-5 m/day in the right half of the domain.  ET occurs at a rate of 5E-4 m/day in a riparian area that extends from the left boundary to the right boundary and occupies rows 22 to 28, inclusive.  The extinction depth is 1 m everywhere.
+ET is zero in the left half of the domain.  ET is 1E-5 m/day in the right half of the domain.  ET occurs at a rate of 5E-5 m/day in a riparian area that extends from the left boundary to the right boundary and occupies rows 22 to 28, inclusive.  The extinction depth is 10 m everywhere.
 
 ### 2.2 Town Development 
 There is a well that is used for water supply by the local community, which is screened in the bottom layer at row 21 and column 38.  It is pumped at a rate of 1500 m3/day.  The town returns some treated water to the stream at column 25.
