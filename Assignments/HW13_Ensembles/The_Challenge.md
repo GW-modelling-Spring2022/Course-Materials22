@@ -49,7 +49,7 @@ We will limit ourselves to considering parameter uncertainty for now.  We will a
 
  Think of each of these as having a high, medium, or low value (given below).  
 
- - K1 and K3 = [5, 25, 100]               # baseline Kx=Ky=Kz value in all zones (m/day)
+ - K1 and K3 = [5, 25, 100]               # Kx=Ky=Kz value in all zones (m/day)
  - Kzratio_lowK = [1e-6, 1e-2, 1]          # ratio of Kz in low-K layer to baseline K (-)
  - Sy = [0.05, 0.1, 0.3]                                 # specific yield (-)
  - R_mountains = [1e-5, 3e-5, 5e-5]       # recharge rate in mountains (m/day)
@@ -82,7 +82,7 @@ Your assignment this week is to design your modeling plan. First you will come u
 ### Part 2: Baseline ensemble:
 1. For each parameter that we are varying write a short description of (1) what this parameter is and (2) how you expect changing it will influence your results. 
    
-2. As group propose 10 combinations of the parameters listed above that you think will lead to the 'most different set' of predicted levels of drawdown in the town well. (e.g. the set of 10 simultions you can do which will best sample the space of your model). Your goal is not to choose sets of parameter values that lead to the highest or lowest impacts.  Rather, you want to define models that are 'most different from each other' with respect to your metrics of interest.
+2. As group propose 10 combinations of the parameters listed above that you think will lead to the 'most different set' of predicted outcomes relative to the baseline (baseline is when all parameters are at there middle level). Think of this as the set of 10 simultions you can do which will best sample the space of your model. Your goal is not to choose sets of parameter values that lead to the best or worst outcome for your client. Rather, you want to define models that are 'most different from each other' with respect to your metrics of interest.
    
 3. Rank your parameter sets in terms of which will generate the largest differences from the baseline scenario with respect to the metrics you chose. Present your rankings and your reasoning. 
 
