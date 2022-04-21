@@ -20,7 +20,7 @@ You have been divided into three stakeholder groups:
 
 You will perform two functions for your group.  First, you will try to put yourself in the minds of your stakeholder - to look at the proposed agricultural activity from their (biased) point of view.  Second, you will act as consulting hydrogeologists for your stakeholder - helping them to bring scientific analyses to their decision making process.
 
-**GroMore** is proposing to start a new agricultural effort in the basin.  Their proposal is included in the base model as the rectangular irrigated area with the elevated ET and the shallow pumping well.  They are resistant to changing this plan (location of the farm, crop, location of pumping well, etc) because they have agreements with the current landowner and have done a market analysis based on the proposed pumping and the projected value of the crop.
+**GroMore** is proposing to start a new agricultural effort in the basin growing pistacios.  Their proposal is included in the base model as the rectangular irrigated area with the elevated ET and the shallow pumping well.  They are resistant to changing this plan (location of the farm, crop, location of pumping well, etc) because they have agreements with the current landowner and have done a market analysis based on the proposed pumping and the projected value of the pistacios.
 
 **Friends of the Environment** is interested in preserving the Green River and its adjacent riparian area.  They are concerned that the added pumping proposed by GroMore may reduce flow in the river and/or contribute N to the river, threatening a sensitive local water strider.   They are also concerned that lowered water levels may impact the riparian ecosystem.
 
@@ -82,9 +82,9 @@ Your assignment this week is to design your modeling plan. First you will come u
 ### Part 2: Baseline ensemble:
 1. For each parameter that we are varying write a short description of (1) what this parameter is and (2) how you expect changing it will influence your results. 
    
-2. As group propose 10 combinations of the parameters listed above that you think will lead to the 'most different set' of predicted levels of drawdown in the town well. (i.e. the set of 10 simultions you can do which will best sample the space of your model). Your goal is not to choose sets of parameter values that lead to the highest or lowest impacts.  Rather, you want to define models that are 'most different from each other' with respect to your metrics of interest (i.e. the behavoir of the stream, the regional groundwater levels, and the water availability at the town and the farm).
+2. As group propose 10 combinations of the parameters listed above that you think will lead to the 'most different set' of predicted levels of drawdown in the town well. (e.g. the set of 10 simultions you can do which will best sample the space of your model). Your goal is not to choose sets of parameter values that lead to the highest or lowest impacts.  Rather, you want to define models that are 'most different from each other' with respect to your metrics of interest.
    
-3. Rank your parameter metrics in terms of which will generate the largest differences from the baseline scenario with respect to the metrics you chose. Presente your rankings and your reasoning. 
+3. Rank your parameter sets in terms of which will generate the largest differences from the baseline scenario with respect to the metrics you chose. Present your rankings and your reasoning. 
 
 ### Part 3: Advocacy scenarios
 1. Based on the options provided in the advocay section above, design three scenarios that your group would like to propose that you think will best suit the needs of your client.  Summarize each scenario along with your logic for creating it. 
